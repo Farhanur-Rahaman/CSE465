@@ -1,2 +1,2 @@
-# CSE465-Liver Disease Analysis and Prediction
+# CSE465-Liver Disease Prediction
 A project for CSE465- Pattern recognition
